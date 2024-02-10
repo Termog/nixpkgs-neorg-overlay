@@ -8,7 +8,7 @@
     norg-meta.url = "github:nvim-neorg/tree-sitter-norg-meta";
 
     neorg = {
-      url = "github:nvim-neorg/neorg";
+      url = "github:nvim-neorg/neorg/v7.0.0";
       flake = false;
     };
     neorg-telescope = {
